@@ -1,7 +1,3 @@
-#include <iostream>
-using namespace std;
-
-
 /*
 	-> #include preprocessor is used to add extenal header files in our program.
 	-> main funtion is the starting point of any c or c++ program.
@@ -10,6 +6,8 @@ using namespace std;
 	-> return 0 shows that execution of program complete successfully.
 */
 
+#include <iostream>
+using namespace std;
 
 int main() {
 
