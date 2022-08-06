@@ -13,7 +13,8 @@ using namespace std;
 
 int main() {
 
-	cout<< "Hello World"<< endl;
+	cout<< "Hello World "<< endl;
+	cout<< "Hello Shivam "<< endl;
 	return 0;
 	
 }
